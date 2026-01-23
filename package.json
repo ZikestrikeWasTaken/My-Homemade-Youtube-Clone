@@ -1,0 +1,11 @@
+{
+  "name": "zikestrike-youtube-clone",
+  "version": "1.0.0",
+  "description": "A Youtube clone from scratch using nothing but coding docs and my limited knowladge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zikestrike",
+  "license": "UNLICENSED"
+}
