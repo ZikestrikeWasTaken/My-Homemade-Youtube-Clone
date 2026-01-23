@@ -4,8 +4,11 @@ Homemade Youtube (From Temu)
 # What is this?
 This is me trying to make youtube from scratch
 
-# Is it going to terrible
+# Is it going to terrible?
 Yep
 
-# Do you know html
+# Do you know html?
 Nope
+
+# Are you going to use AI?
+Nope it sucks at writing code
