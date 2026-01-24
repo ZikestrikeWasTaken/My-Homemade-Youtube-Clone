@@ -1,3 +1,4 @@
+<!-- For later make this change the title and have a video not found page once I make a backend -->
 <!-- I have no idea what I'm doing -->
 <!DOCTYPE html>
 <html>
@@ -8,8 +9,17 @@
         <script>
             const url = window.location
             const urlObject = new URL(url);
-            const Video_ID = urlObject.searchParams.get('v') 
-            console.log('The Video ID for this video is "' + Video_ID + '"')
+            const Video_ID = urlObject.searchParams.get('v')
+            
+            if (Video_ID == null) {
+                window.location.replace("/");
+            }
+            else if (Video_ID == '') {
+                window.location.replace("/");
+            }
+            else {
+              console.log('The Video ID for this video is "' + Video_ID + '"')
+            } 
         </script>
     </head>
     <body>
