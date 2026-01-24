@@ -1,10 +1,10 @@
 import express from 'express'
 
 const app = express()
+const path = import('path')
 
-app.get('/', (req, res) => {
-  res.send('Frontend/index.html')
-})
+app.use('/', express.static('Frontend/'))
+app.use('/watch', express.static('Frontend/watch.html'))
 
 app.listen(3000, () => {
   console.log('Server is running on http://localhost:3000')
