@@ -2,8 +2,7 @@
 
 # SEMISTABLE
 
-### My Temu Youtube Clone
-Homemade Youtube (From Temu)
+## My Homemade Youtube Clone
 
 ### What is this?
 This is me trying to make youtube from scratch
