@@ -21,4 +21,5 @@ I forget stuff and get distracted and if anyone wants to know more about it
 
 #### For later
 I'm probably going to add stuff like npm frontend or backend so you can have it so it connects to a public backend with your frontend or so you can host a backend only for others  
-And also probably a custom url parameter in a json so you can set what backend to use
+And also probably a custom url parameter in a json so you can set what backend to use  
+Also add in a config file for configuring the backend and frontend with stuff like Main page title and also backend url for frontend
