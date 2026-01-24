@@ -3,7 +3,7 @@ import express from 'express'
 const app = express()
 
 app.get('/', (req, res) => {
-  res.send('Frontend')
+  res.send('Frontend/index.html')
 })
 
 app.listen(3000, () => {
