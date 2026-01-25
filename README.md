@@ -2,6 +2,8 @@
 
 # SEMISTABLE
 
+# Note for later check out react on react.dev to see if I want to use it
+
 ## My Homemade Youtube Clone
 
 ### What is this?
