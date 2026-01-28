@@ -1,0 +1,8 @@
+{
+    "_comment": "The WebsiteName and WebsitePort configure the frontend",
+    "WebsiteName": "Youtube Clone",
+    "WebsitePort": "80",
+    "_comment2": "The BackendURL and BackendPort control where the frontend fetches from",
+    "BackendURL": "127.0.0.1",
+    "BackendPort": "8090"
+}

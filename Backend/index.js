@@ -3,7 +3,7 @@ const app = express()
 
 // Main page invalid
 app.get('/', (req, res) => {
-  res.send('Invalid Page')
+  res.send('Invalid Page (Maybe Public Backend Stats Later?)')
 })
 // Needs to go to a python script since that's easier
 app.get('/watch', (req, res) => {
@@ -11,5 +11,5 @@ app.get('/watch', (req, res) => {
 })
 
 app.listen(8090, () => {
-  console.log('Server is running on http://localhost:8090')
+  console.log('Server is running on http://0.0.0.0:8090')
 })
