@@ -4,9 +4,9 @@
   "description": "A Youtube clone from scratch using nothing but coding docs and my limited knowladge and a few libraries",
   "main": "index.js",
   "scripts": {
-    "start": "node Frontend/index.js & node Backend/server.js",
-    "startback": "node Backend/index.js",
-    "startfront": "node Frontend/index.js"
+    "start": "node IndexBackend.js & node IndexFrontend.js",
+    "startback": "node IndexBackend.js",
+    "startfront": "node IndexFrontend.js"
   },
   "author": "Zikestrike",
   "license": "UNLICENSED",

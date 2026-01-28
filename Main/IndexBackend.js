@@ -11,5 +11,5 @@ app.get('/watch', (req, res) => {
 })
 
 app.listen(8090, () => {
-  console.log('Server is running on http://0.0.0.0:8090')
+  console.log('Server is running on http://127.0.0.1:8090')
 })
