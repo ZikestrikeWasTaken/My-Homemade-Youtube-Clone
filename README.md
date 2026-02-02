@@ -1,3 +1,5 @@
+# Bored so I'm going to continue on Feburary 12
+
 # MISSING PARTS OF THE BACKEND AND INDEX.JS
 
 # SEMISTABLE
