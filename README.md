@@ -1,4 +1,4 @@
-# Bored so I'm going to continue on Feburary 12
+# Bored so I'm going to continue on Feburary 41 (Soon I guess)
 
 # MISSING PARTS OF THE BACKEND AND INDEX.JS
 
