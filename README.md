@@ -1,4 +1,4 @@
-# Bored so I'm going to continue on Feburary 41 (Soon I guess)
+# Bored so I'm going to continue on Feburary 41 (Soon I guess) I'm doing backend stuff for the repo itself
 
 # MISSING PARTS OF THE BACKEND AND INDEX.JS
 
