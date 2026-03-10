@@ -1,3 +1,5 @@
+# OpenTube
+
 # I keep forgetting about this but I might make a version for myself thats closed source once I do this
 
 # MISSING PARTS OF THE BACKEND AND INDEX.JS
@@ -5,8 +7,6 @@
 # SEMISTABLE
 
 # Note for later check out react on react.dev to see if I want to use it
-
-## My Homemade Youtube Clone
 
 ### What is this?
 This is me trying to make youtube from scratch
@@ -19,6 +19,9 @@ Just started learning
 
 ### Are you going to use AI?
 Nope it sucks at writing code and it has a look I dont like seeing
+
+### Why is it called OpenTube
+It needed a name in my head and its a open source youtube clone so OpenTube
 
 ### Why are there other README.md's?
 I forget stuff and get distracted and if anyone wants to know more about it
