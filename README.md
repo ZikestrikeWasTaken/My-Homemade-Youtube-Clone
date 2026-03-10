@@ -15,10 +15,10 @@ This is me trying to make youtube from scratch
 Yep
 
 ### Do you know html?
-Nope
+Just started learning
 
 ### Are you going to use AI?
-Nope it sucks at writing code
+Nope it sucks at writing code and it has a look I dont like seeing
 
 ### Why are there other README.md's?
 I forget stuff and get distracted and if anyone wants to know more about it
