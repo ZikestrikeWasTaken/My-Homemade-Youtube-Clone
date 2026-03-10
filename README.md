@@ -1,4 +1,4 @@
-# Bored so I'm going to continue on Feburary 41 (Soon I guess)
+# I keep forgetting about this but I might make a version for myself thats closed source once I do this
 
 # MISSING PARTS OF THE BACKEND AND INDEX.JS
 
