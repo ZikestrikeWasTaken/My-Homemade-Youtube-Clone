@@ -1,3 +1,5 @@
+# Not working on for a while so I'm archiving this for the time being
+
 # OpenTube
 
 # I keep forgetting about this but I might make a version for myself thats closed source once I do this
